@@ -81,3 +81,8 @@
 2. [Tài liệu hướng dẫn dành cho Quản trị viên](https://docs.cmcu.edu.vn/hdsd-he-thong-ai-agent-danh-cho-quan-tri-vien/)
 3. [Tài liệu hướng dẫn dành cho Quản trị hệ thống](https://docs.cmcu.edu.vn/hdsd-he-thong-ai-agent-quan-tri-he-thong/)
 
+## Hệ thống quản lý HRM
+
+1. Tài liệu hướng dẫn dành cho nhân viên
+2. Tài liệu hướng dẫn dành cho Quản lý phòng ban
+3. Tài liệu hướng dẫn dành cho HR
